@@ -1,0 +1,11 @@
+My patched dwm old version.
+
+There's a newer, but I like this one. It's patched with
+* pango support (for using any font)
+* cycling tags
+
+Some keybindings added (such as enabling screen lock).
+
+Give it a try. 
+
+There is no lighter window manager than this one :)
